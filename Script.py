@@ -275,8 +275,8 @@ User - {}"""
  ❏ 𝟶𝟸𝟿₹    ➠    𝟶𝟷 ᴍᴏɴᴛʜ
  ❏ 𝟶𝟻𝟻₹    ➠    𝟶𝟸 ᴍᴏɴᴛʜ
  ❏ 𝟶𝟽𝟻₹    ➠    𝟶𝟹 ᴍᴏɴᴛʜ
- ❏ 𝟷𝟸𝟶₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
- ❏ 𝟸𝟶𝟶₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
+ ❏ 249₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
+ ❏ 399₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
 🆔 ᴜᴘɪ ɪᴅ ➩ <code>9110497136@ptyes</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
@@ -378,7 +378,7 @@ developer : PSG
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="https://t.me/Jisshu_developer/8">Example</a>
+/set_template - set IMDb template <a href="https://https://t.me/+Jvihjk0hlipkM2Jl/8">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial {tutorial link} - set 1 verification tutorial 
 /set_tutorial_2 {tutorial link} - set 2 verification tutorial 
@@ -386,9 +386,9 @@ developer : PSG
 -------------Set Log Channel-----------
 --> ᴀᴅᴅ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ & ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ 👇
 
-/set_log {log channel id}
+/set_log {1004382598946}
 ---------------------------------------
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs 
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
-Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/YaduvanshiXD">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/YaduvanshiXD">ᴀᴅᴍɪɴ</a></b>"""
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/@Pakkirgoudas">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/@Pakkirgoudas">ᴀᴅᴍɪɴ</a></b>"""
