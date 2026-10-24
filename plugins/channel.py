@@ -81,7 +81,7 @@ async def send_movie_updates(bot, file_name, caption, file_id):
         search_movie = movie_name.replace(" ", '-')
         btn = [
             [InlineKeyboardButton('💫Gᴇᴛ Fɪʟᴇ💝', url=f'https://telegram.me/{temp.U_NAME}?start=getfile-{search_movie}')],
-            [InlineKeyboardButton('💫Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ💝', url=f'https://t.me/+cpHps_O8JAM4Y2I1')]
+            [InlineKeyboardButton('💫Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ💝', url=f'@PSGMOVIESBOT')]
         ]
         reply_markup = InlineKeyboardMarkup(btn)
         if poster_url:
